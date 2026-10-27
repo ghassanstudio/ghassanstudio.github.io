@@ -1,1 +1,1 @@
-ghassanstudio/app-ads.txt
+ghassanstudio.github.io
